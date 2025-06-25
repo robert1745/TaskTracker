@@ -26,9 +26,8 @@ TaskTracker/
 │ └── task.go # Task model and constants
 └── README.md # This file
 ```
-## 🧪 Usage
 
-### ▶️ Run via `go run`
+###  How to run the project : 
 
 ```bash
 go run main.go add "Buy groceries"
