@@ -16,7 +16,7 @@ A simple command-line task manager written in Go. Easily track, update, and mana
 ---
 
 ## 🏗 Folder Structure
-
+``` bash
 TaskTracker/
 ├── main.go # CLI entry point
 ├── go.mod # Go module file
@@ -25,7 +25,7 @@ TaskTracker/
 │ ├── storage.go # JSON read/write helpers
 │ └── task.go # Task model and constants
 └── README.md # This file
-
+```
 ## 🧪 Usage
 
 ### ▶️ Run via `go run`
